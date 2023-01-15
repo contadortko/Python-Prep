@@ -12,11 +12,12 @@
 
 6) Dada la siguiente lista de números enteros entre 1 y 20, crear un ciclo donde se completen los valores faltantes: lista = [1,2,5,7,8,10,13,14,15,17,20]
 
-7) La sucesión de Fibonacci es un listado de números que sigue la fórmula: <br>
-n<sub>0</sub> = 0<br>
-n<sub>1</sub> = 1<br>
-n<sub>i</sub> = n<sub>i-1</sub> + n<sub>i-2</sub><br>
-Crear una lista con los primeros treinta números de la sucesión.<br>
+7) La sucesión de Fibonacci es un listado de números que sigue la fórmula: 
+
+n0 = 0
+n1 = 1
+ni = ni-1 + ni-2
+Crear una lista con los primeros treinta números de la sucesión.
 
 8) Realizar la suma de todos elementos de la lista del punto anterior
 
